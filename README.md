@@ -1,6 +1,6 @@
 ### Hi there 👋 My Name is Aleks and I'm a full stack software developer
 
-[![Aleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ualeks)](https://github.com/anuraghazra/github-readme-stats)
+[![Aleks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ualeks&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ualeks/ualeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
